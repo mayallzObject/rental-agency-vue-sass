@@ -1,10 +1,10 @@
 <template>
-  <div class="about-container"></div>
+  <div class="filters"></div>
 </template>
 
 <script>
 export default {
-  name: 'About',
+  name: "MainFiltersBox",
   components: {}
-}
+};
 </script>

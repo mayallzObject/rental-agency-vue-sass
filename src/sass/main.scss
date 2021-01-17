@@ -1,0 +1,22 @@
+// ABSTRACTS
+@import 'abstracts/variables';
+
+// BASE
+@import 'base/animations';
+@import 'base/base';
+
+// COMPONENTS
+@import 'components/header';
+@import 'components/main-header';
+@import 'components/navigation';
+@import 'components/search';
+@import 'components/user-nav';
+
+// LAYOUT
+@import 'layout/app';
+@import 'layout/footer';
+@import 'layout/products-gallery';
+@import 'layout/sidebar';
+
+// PAGES
+@import 'pages/home';

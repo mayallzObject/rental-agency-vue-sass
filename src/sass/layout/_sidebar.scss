@@ -1,0 +1,11 @@
+.sidebar {
+  background-color: var(--color-grey-dark-1);
+  height: auto;
+  width: auto;
+  display: flex;
+  position: relative;
+  margin-bottom: 2rem;
+  flex-direction: row;
+  justify-content: center;
+  background-image: linear-gradient(rgba(white, 0.1), rgba(red, 0.1));
+}
