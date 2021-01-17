@@ -21,9 +21,24 @@ const routes = [
     props: true
   },
   {
-    path: "/about",
-    name: "About",
-    component: loadView("About")
+    path: "/realtors",
+    name: "Realtors",
+    component: loadView("Realtors")
+  },
+  {
+    path: "/proposal",
+    name: "Proposal",
+    component: loadView("Proposal")
+  },
+  {
+    path: "/contact",
+    name: "Contact",
+    component: loadView("Contact")
+  },
+  {
+    path: "/careers",
+    name: "Careers",
+    component: loadView("Careers")
   }
 ];
 
